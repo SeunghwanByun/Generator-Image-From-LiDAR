@@ -1,0 +1,6 @@
+model_checkpoint_path: "ImageGenerator.ckpt-276684"
+all_model_checkpoint_paths: "..\\model_2040_Epochs\\ImageGenerator.ckpt-268884"
+all_model_checkpoint_paths: "..\\model\\ImageGenerator.ckpt-272784"
+all_model_checkpoint_paths: "..\\model_2070_Epochs\\ImageGenerator.ckpt-272784"
+all_model_checkpoint_paths: "..\\model\\ImageGenerator.ckpt-276684"
+all_model_checkpoint_paths: "ImageGenerator.ckpt-276684"
